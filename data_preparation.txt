@@ -1,0 +1,15 @@
+DATA PREPARATION
+   
+   Kumpulan dari atribut membentuk suatu objek dan setiap atribut memiliki nilai.
+      Seperti :
+         Warna Mana
+         Warna Kulit
+   
+   
+   Jenis-jenis Atribut :
+      Nominal
+      Oridnal
+      Interval
+      Ratio
+
+      

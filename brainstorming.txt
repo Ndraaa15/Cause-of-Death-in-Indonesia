@@ -1,0 +1,25 @@
+BRAINSTORMING
+   - Storytelling (Menceritakan apa saja isi dari data)
+   - First Impression itu penting
+   - Menyederhanakan dan mengatur informasi (Data)
+   - Solusi untuk permasalahan yang Advances
+
+a. Menentukan Tujuan dan Masalah
+   - Untuk siapa dan kenali audiens?
+   - Kekhawatiran mereka?
+   - Bagaimana bisa membantu mereka?
+   - Membuat eksplorasi untuk permasalahan yang dibuat (rumusan masalah)
+b. Lakukan Riset
+c. Diskusi Ide
+d. Mengatur dan Mengategorikan
+e. Membuat Story board
+f. Tambahkan elemen visual
+g. Finalisasi Infografis
+
+ICCORE 
+   - Inform (Menyampaikan pesan penting dengan data yang lebih to the point)
+   - Compate (Membandingkan data 1 dengan data lainnya) -> Bar chart, pie chart, tree map
+   - Change (Menampilkan data yang ada perubahan) -> Line chart
+   - Organize (Menampilkan informasi yang berurutan) -> Flowchart, mindmap, table
+   - Relation (Menunjukkan hubungan yang lebih kompleks pada suatu konteks) -> scatterplot, multiseriesplot
+   - Explore (Menjelajahi inforgrafis) -> biasanya digunakan untuk mencari data lainnya 

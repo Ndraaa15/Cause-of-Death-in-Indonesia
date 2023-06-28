@@ -1,0 +1,5 @@
+Membuat Forecasting
+Membuat klasfikasi penyakit bahaya, sangat bahaya, normal
+Memberikan isi untuk tahun yang kosong berdasarkan kemiripan dari tahun yang penuh
+Data tambahan yang relieable, aktual, faktual, dari sumber yang kredibel
+Boundaries

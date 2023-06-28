@@ -1,0 +1,23 @@
+EVOLUTION OF DATA MINING
+   Data collect, Database creation -> Relational data model DBMS -> RDBMS (Advances level model) -> Data Mining & Warehousing
+
+
+DATA MINING
+   Extraction raw data process for data analytic (Potentially Usefull Information)
+   Dimentions is same like columns
+   Computations time is important
+   Make us easily to do data analytic
+
+DATABASE ANALYSIS AND DECISION SUPPORT
+   Market Analysis and Management
+   Risk Analysis and Management
+   Forecasting
+   Fraud Detection
+
+DATA MINING TASK
+   Classification -> Clasify the raw data into lot class
+   Clustering
+   Assocation Rule Discovery
+   Sequential Pattern Discovery
+   Regression
+   Deviation Detection
