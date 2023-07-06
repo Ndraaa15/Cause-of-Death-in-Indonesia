@@ -8,7 +8,7 @@ DATA PREPARATION
    
    Jenis-jenis Atribut :
       Nominal
-      Oridnal
+      Ordinal
       Interval
       Ratio
 
